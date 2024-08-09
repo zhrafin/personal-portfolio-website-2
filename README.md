@@ -59,5 +59,3 @@ Below are some screenshots showcasing different aspects of the portfolio website
 
 Feel free to customize the README further based on your specific needs or preferences.
 ```
-
-This `README.md` includes sections for an overview, features, technologies used, installation, usage, and more. Adjust the screenshots and credit sections based on your specific content and contributors.
