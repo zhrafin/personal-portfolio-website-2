@@ -43,16 +43,16 @@ Below are some screenshots showcasing different aspects of the portfolio website
 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="assets/assets/Screenshot_2.png" alt="GUI Screenshot 2" width="400" />
-    <img src="assets/assets/Screenshot_3.png" alt="GUI Screenshot 3" width="400" />
+    <img src="images/Screenshot_2.png" alt="GUI Screenshot 2" width="400" />
+    <img src="images/Screenshot_3.png" alt="GUI Screenshot 3" width="400" />
 </div>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="assets/assets/Screenshot_4.png" alt="GUI Screenshot 4" width="400" />
-    <img src="assets/assets/Screenshot_5.png" alt="GUI Screenshot 5" width="400" />
+    <img src="images/Screenshot_4.png" alt="GUI Screenshot 4" width="400" />
+    <img src="images/Screenshot_5.png" alt="GUI Screenshot 5" width="400" />
 </div>
 
-<img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="500" />
+<img src="images/Screenshot_6.png" alt="GUI Screenshot 6" width="500" />
 
 ## Credits
 
