@@ -1,5 +1,4 @@
 
-```markdown
 # Zayeed Hasan - Personal Portfolio Website
 
 Welcome to the repository for Zayeed Hasan's personal portfolio website. This project is a modern, interactive portfolio designed to showcase my work, skills, and professional journey. The site features a dynamic design with a variety of sections including an introduction, about me, services, and portfolio, with smooth animations and custom color themes.
@@ -57,5 +56,4 @@ Below are some screenshots showcasing different aspects of the portfolio website
 
 ---
 
-Feel free to customize the README further based on your specific needs or preferences.
-```
+
